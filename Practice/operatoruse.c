@@ -16,3 +16,5 @@ int main()
   printf("%d", x);
   return 0;
 }
+
+// This is c program says the use of operatore.
